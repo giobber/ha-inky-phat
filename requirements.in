@@ -1,0 +1,5 @@
+Pillow
+inky[rpi,example-depends]
+requests
+python-decouple
+typer
